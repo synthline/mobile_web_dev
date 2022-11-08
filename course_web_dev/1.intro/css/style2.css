@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+    font-family: 'Fontito', sans-serif;
+    font-weight: 300 !important;
+}
+
+body {
+    font-weight: 300;  
+    margin: 10px 30px 50px 20px;
+}
+
+#main-header {
+    border: 1px solid #000;
+    border-top: none;
+    border-bottom: 2px dashed #f0f
+}
